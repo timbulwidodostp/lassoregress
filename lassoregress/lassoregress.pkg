@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'lassoregress': Elastic net regression, lasso regression, ridge regression Use lassoregress and ridgeregress and elasticregress With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f elasticregress.ado
+f elasticregress.ihlp
+f elasticregress.sthlp
+f lassoregress.ado
+f lassoregress.sthlp
+f ridgeregress.ado
+f ridgeregress.sthlp
