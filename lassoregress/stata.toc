@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lassoregress Elastic net regression, lasso regression, ridge regression Use lassoregress and ridgeregress and elasticregress With STATA 18
