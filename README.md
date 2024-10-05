@@ -1,6 +1,8 @@
 # lassoregress
 Elastic net regression, lasso regression, ridge regression Use lassoregress and ridgeregress and elasticregress With STATA 18
 
+https://www.youtube.com/watch?v=2TOp7NCcqHs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
